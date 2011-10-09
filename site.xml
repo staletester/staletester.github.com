@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/stf_1.0.0.201110082026.jar" id="stf" version="1.0.0.201110082026">
+      <category name="new_category_1"/>
+   </feature>
+   <category-def name="new_category_1" label="New Category 1"/>
+</site>
